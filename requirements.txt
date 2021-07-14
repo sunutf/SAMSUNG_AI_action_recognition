@@ -1,0 +1,6 @@
+Pillow
+numpy
+pickle-mixin
+ffmpeg-python
+matplotlib
+opencv-python==3.4.5.20
