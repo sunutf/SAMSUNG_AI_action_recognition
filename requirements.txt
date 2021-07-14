@@ -3,4 +3,11 @@ numpy
 pickle-mixin
 ffmpeg-python
 matplotlib
-opencv-python==3.4.5.20
+opencv-python==4.5.2.54
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.9.0
+torchvision==0.10.0
+jupyter-client==6.1.7
+jupyter-core==4.7.0
+jupyterlab-pygments==0.1.2
+nbdime==1.1.0

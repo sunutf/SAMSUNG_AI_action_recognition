@@ -1,0 +1,17 @@
+[I 07:13:51.594 LabApp] [nb_conda_kernels] enabled, 1 kernels found
+[I 07:13:52.530 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[I 07:13:52.530 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 07:13:52.895 LabApp] [nb_conda] enabled
+[W 07:13:52.960 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 07:13:53.402 LabApp] JupyterLab extension loaded from /opt/conda/lib/python3.7/site-packages/jupyterlab
+[I 07:13:53.402 LabApp] JupyterLab application directory is /opt/conda/share/jupyter/lab
+[I 07:13:53.753 LabApp] Serving notebooks from local directory: /home/sunutf/SAMSUNG_AI_action_recognition
+[I 07:13:53.753 LabApp] The Jupyter Notebook is running at:
+[I 07:13:53.753 LabApp] http://(instance-7 or 127.0.0.1):8888/?token=24653029fc4255e47d91957a8a2f8fe5f343ff1085ff16bd
+[I 07:13:53.753 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 07:13:53.758 LabApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/sunutf/.local/share/jupyter/runtime/nbserver-26036-open.html
+    Or copy and paste one of these URLs:
+        http://(instance-7 or 127.0.0.1):8888/?token=24653029fc4255e47d91957a8a2f8fe5f343ff1085ff16bd
