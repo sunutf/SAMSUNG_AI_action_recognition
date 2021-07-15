@@ -46,8 +46,8 @@ class C3D(nn.Module):
         self.conv5b = 
         self.pool5 = nn.MaxPool3d(kernel_size=(2, 2, 2), stride=(2, 2, 2), padding=(0, 1, 1))
 
-        self.fc6 = nn.Linear(8192, 4096)
-        self.fc7 = nn.Linear(4096, num_classes)
+        self.fc6 = 
+        self.fc7 = 
         #============================================================
 
         self.dropout = nn.Dropout(p=0.5)
