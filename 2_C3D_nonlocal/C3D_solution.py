@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from non_local import NonLocalBlock3D 
+from non_local_solution import NonLocalBlock3D 
 
 class C3D(nn.Module):
     """
